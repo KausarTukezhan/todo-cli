@@ -16,7 +16,7 @@ A command-line to-do list application with authentication, task categorization, 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/myusername/todo-cli.git
+   git clone https://github.com/KausarTukezhan/todo-cli.git
    cd todo-cli
    ```
 
